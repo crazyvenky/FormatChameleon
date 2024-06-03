@@ -1,0 +1,5 @@
+docx2pdf
+pdf2docx
+pandas
+Pillow
+streamlit
